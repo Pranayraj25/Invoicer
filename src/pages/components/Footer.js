@@ -24,12 +24,12 @@ export default function Footer() {
           <p className="text-slate-200">
             Built by{" "}
             <a
-              href="https://riya-aryan.vercel.app/"
+              href="https://invoicer2-7t0xbzhdz-pranay-rajs-projects-338847bf.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="underline hover:text-slate-50"
             >
-               Riya Aryan
+               Pranay Raj
             </a>
           </p>
         </footer>
